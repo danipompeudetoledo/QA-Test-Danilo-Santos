@@ -1,0 +1,33 @@
+{
+  "success": {
+    "name": "Isabel",
+    "email": "easpa@gmail.com",
+    "password": "pwd123@$89"
+  },
+  "email_dup": {
+    "name": "Danilo",
+    "email": "danilosa@gmail.com",
+    "password": "pwd123@1990@1001"
+  },
+ 
+
+  "email_inv":{
+    "name": "Isabela",
+    "email": "isahaadpgmail.com",
+    "password": "pwd123@1990@1001"
+  },
+
+
+  "short_password": {
+    "name":"Jason Friday",
+    "email":"jason@gmail.com",
+    "password": null
+  },
+
+  "type_only_email": {
+    "email": "danilosa@gmail.com"
+  
+  }
+  
+
+}
